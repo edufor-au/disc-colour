@@ -4,18 +4,23 @@
   "license_url": "https://github.com/edufor-au/disc-colour/blob/main/LICENSE",
   "color_schemes": {
     "edufor-light": {
-      "primary": "40356f",
-      "secondary": "f9fcff",
-      "tertiary": "1c1c1c",
-      "quaternary": "7e8b93",
-      "header_background": "f9fcff",
-      "header_primary": "122b43",
-      "highlight": "e6cb37",
-      "danger": "d05454",
-      "success": "71bd9f",
-      "love": "c16ad7",
-      "selected": "e1ebfb",
-      "hover": "f2f2f2"
+      "primary": "30274f",
+      "secondary": "ffffff",
+      "tertiary": "40356f",
+      "quaternary": "8c54a1",
+      "header_background": "ffffff",
+      "header_primary": "000000",
+      "highlight": "ffff00",
+      "danger": "BB1122",
+      "success": "3d854d",
+      "love": "8c54a1",
+      "primary-medium": "30274f",
+      "primary-low-mid": "5a4f83",
+      "highlight-high": "57356f",
+      "highlight-medium": "e0e9ff",
+      "highlight-low": "e0e9ff",
+      "selected": "E2E9FE",
+      "hover": "F0F4FE"
     }
   }
 }
